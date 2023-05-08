@@ -1,4 +1,3 @@
-
 <div class="text-center m-auto">
 	<p>
 		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit doloremque omnis adipisci
@@ -6,8 +5,12 @@
 		nulla excepturi illo corrupti.
 	</p>
 	<ul>
-		<li><a href="/about">About Us</a></li>
+		<li class="my-4 p-4 border-2 border-solid border-black w-48 min-w-min m-auto">
+			<a href="/about">About Us</a>
+		</li>
 
-		<li><a href="/guides">Guides</a></li>
+		<li class="my-4 p-4 border-2 border-solid border-black w-48 min-w-min m-auto">
+			<a href="/guides">Guides</a>
+		</li>
 	</ul>
 </div>
