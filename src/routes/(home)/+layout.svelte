@@ -4,7 +4,7 @@
 	import Footer from '$lib/Footer.svelte'
 </script>
 
-<header class="bg-zinc-800 py-4 mb-8">
+<header class="bg-zinc-800 flex h-32">
 	<Title title="Halabi Gaming" />
 </header>
 
